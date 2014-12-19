@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Allen7Wang's Blog
 email: allen7wang@gmail.com
@@ -12,3 +13,6 @@ github_username: allen7wang
 
 # Build settings
 markdown: kramdown
+=======
+baseurl: /
+>>>>>>> 226e97da78ee68c546b42d78c6ddef9406a244d1

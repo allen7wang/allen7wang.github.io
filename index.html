@@ -1,5 +1,6 @@
 ---
 layout: default
+<<<<<<< HEAD
 ---
 
 <div class="home">
@@ -21,3 +22,14 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+=======
+title: My Blog
+---
+<h2> {{ page.title }} </h2>
+<p> the Newest Articles </p>
+<ul>
+	{% for post in site.posts %}
+		<li> {{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
+>>>>>>> 226e97da78ee68c546b42d78c6ddef9406a244d1
