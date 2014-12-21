@@ -9,4 +9,4 @@ tages: [Linux}
 <p>Commands: sudo dpkg -l<p>
 <p>You can output these information to a file for suitablly scanning</p>
 <p>Commands: 1.touch pkg_info 2.sudo dpkg -l >> pkg_info </p>
-<p>{{ page.date | date_to_string }}</p>
+<p>21 Dec 2014</p>
