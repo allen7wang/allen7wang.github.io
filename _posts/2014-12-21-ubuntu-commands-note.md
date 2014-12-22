@@ -2,7 +2,7 @@
 layout: default
 title: Linux commands note
 description: My note of Linux commands continuing updating.
-tages: [Linux}
+tages: [Linux]
 ---
 <h2>{{ page.title }} </h2>
 <h3>1.Scan the software packages you installed by terminal</h3>
