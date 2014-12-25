@@ -1,5 +1,5 @@
 ---
-layouts: default
+layout: default
 title: Sayings I should remember
 description: Sayings touch me updates constantly.
 tags: [Lifestyle]
