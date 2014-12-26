@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About the site, the author, the life, the universe and everything more.
+title: About
 ---
 
-<div class="message">
-  This page will be ready soon! Meanwhile, stay with this beautiful latin text below.
-</div>
-Aha!
+this is [allen7wang](http://www.allen7wang.com), a sofeware developer who lives in Xi\'an  at the moment.
+Tweet at [@allen7wang](http://twitter.com/allen7wang), read my code on [GitHub](http://github.com/allen7wang).
+This theme is made by me. You have a nice day. ♥

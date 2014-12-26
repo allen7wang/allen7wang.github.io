@@ -1,53 +1,26 @@
-# Dependencies
-markdown:	redcarpet
-pygments:	true
+title:            Allen7Wang Blog
+description:      allen7wang's blog
+url:              # Site url.
+signoff:          # Your name.
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
-# Permalinks
-permalink:	/blog/:title
-
-# Setup
-title:		Allen7Wang
-tagline:	'blog'
-description:	'My personal blog.'
-url:		http://www.allen7wang.com
-
-author:
-  name:		'allen7wang'
-  url:		https://google.com/+allen7wang
-
-paginate:	5
-
-# Custom vars
-icon:		/assets/images/icon.png
-cover:		/assets/images/cover.jpg
-
-social:
-  - icon:	twitter
-    url:	https://twitter.com/allen7wang
-    desc:	Follow me on twitter
-
-  - icon:	github
-    url:	https://github.com/allen7wang
-    desc:	Fork me on github
-
-  - icon:	googleplus-alt
-    url:	https://google.com/+allen7wang
-    desc:	Add me on google+
-
-  - icon:	feed
-    url:	http://allen7wang.com/atom.xml
-    desc:	Subscribe to my feed
-    
-menu:
-  - title:	Home
-    url:	/
-    
-  - title:	About
-    url:	/about
-    
-copyright:
-  author:	allen7wang
-  url:		http://allen7wang.com
-  type_title:	Some rights reserved
-  type_url:	http://allen7wang.com
-
+links:
+  - name:         About
+    url:          /about
+  - name:         Blog
+    url:          http://www.allen7wang.com
+    external:     true
+  - name:         Email
+    url:          gmail:allen7wang@gmail.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/allen7wang
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
