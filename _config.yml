@@ -6,7 +6,7 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Allen7Wang
 tagline:	'blog'
 description:	'My personal blog.'
 url:		http://www.allen7wang.com
