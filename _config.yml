@@ -1,16 +1,53 @@
-# Site settings
-title: Allen7Wang's Blog
-email: allen7wang@gmail.com
-description: > # this means to ignore newlines until "baseurl:"  
-       This is Allen Wang's Blog.
-       I believe that practice makes perfect.
-       I want to share life experience to others.
-#baseurl: /
-# the subpath of your site, e.g. /blog/
-url: http://www.allen7wang.com 
-# the base hostname & protocol for your site
-twitter_username: allen7wang
-github_username: allen7wang
+# Dependencies
+markdown:	redcarpet
+pygments:	true
 
-# Build settings
-markdown: kramdown
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Thinny
+tagline:	'blog'
+description:	'My personal blog.'
+url:		http://www.allen7wang.com
+
+author:
+  name:		'allen7wang'
+  url:		https://google.com/+allen7wang
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/allen7wang
+    desc:	Follow me on twitter
+
+  - icon:	github
+    url:	https://github.com/allen7wang
+    desc:	Fork me on github
+
+  - icon:	googleplus-alt
+    url:	https://google.com/+allen7wang
+    desc:	Add me on google+
+
+  - icon:	feed
+    url:	http://allen7wang.com/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about
+    
+copyright:
+  author:	allen7wang
+  url:		http://allen7wang.com
+  type_title:	Some rights reserved
+  type_url:	http://allen7wang.com
+

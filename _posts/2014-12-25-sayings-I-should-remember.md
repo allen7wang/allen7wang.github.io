@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Sayings I should remember
 description: Sayings touch me updates constantly.
 tags: [Lifestyle]

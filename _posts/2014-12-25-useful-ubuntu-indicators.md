@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 10 useful ubuntu indicators
 tags: [Linux]
 ---
