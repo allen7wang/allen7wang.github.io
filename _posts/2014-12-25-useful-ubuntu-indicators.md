@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 10 useful ubuntu indicators
+tagline: by Snail
 tags: [Linux]
 ---
 <h2> {{ page.title }} </h2>

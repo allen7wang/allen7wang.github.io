@@ -2,6 +2,7 @@
 layout: post
 title: Linux commands note
 description: My note of Linux commands continuing updating.
+tagline: by Snail
 tages: [Linux]
 ---
 <h2>{{ page.title }} </h2>

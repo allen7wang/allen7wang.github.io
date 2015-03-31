@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sayings I should remember
-description: Sayings touch me updates constantly.
+tagline: by Snail
 tags: [Lifestyle]
 ---
 <h2> {{ page.title }} </h2>
