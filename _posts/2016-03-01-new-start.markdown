@@ -1,7 +1,7 @@
 ---
 layout:post
 title: "New Start"
-permalink: 
+permalink:/new-start 
 date: 2016-03-01 11:52:30 
 categories: Diary
 ---
