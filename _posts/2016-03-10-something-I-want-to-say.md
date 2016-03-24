@@ -1,9 +1,7 @@
 ---
-layout:post
-title:something I want to say
-permalink:
-date:2016-03-10 16:10:00
-categories:Dairy
+layout: post
+title: something I want to say
+Categories:Dairy
 ---
 Something I want to say
 Now I am facing the problem to find a job. I failed to go abroad because of lacking money. Actully going abroad to study do not need much money if you study so well. But I am not studying so good so I said that I am lacking of money. Once I employed by a big company named RenRen.com. I quited from the company after one month I got into it. At that time I thought this company is not proper for me. I am an ambitious people, and after 1 year my father died I hope to do thing meaningful. I tried to get a postgraduated education.But I failed. I made a too high target for me. During this perioud I caught the target for my job or for my life, my father suddently died when he went to sleep. He fall down and never got up again. There are some problems with his heart. He died at the age of 50. From 2012 in the IT circle many people realised that hardwares are reviving. And I started to focus on the open source hardwares like Raspberry Pi and Arduino. With all these equipments I thougnt I could make something to prevent the things happened to my father. With the experience of working in RenRen.com, I knew that I must get a job I like. For my life goal, I would learn some programming skills in the new job. I have to complete my dream for my father.
