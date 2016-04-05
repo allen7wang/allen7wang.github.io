@@ -1,6 +1,6 @@
 ---
 layout: post
-title: talking with LiXiang
+title: Talking with LiXiang
 category: Dairy
 ---
 ### 与李翔的闲聊 ###
@@ -64,4 +64,5 @@ category: Dairy
     
 
 a7w
-Apr 5th 2016
+
+Apr 5th 2016    

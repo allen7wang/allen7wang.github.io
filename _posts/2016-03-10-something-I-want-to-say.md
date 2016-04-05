@@ -1,6 +1,6 @@
 ---
 layout: post
-title: something I want to say
+title: Something I Want to Say
 categories: Dairy
 ---
 ### Something I want to say ###
