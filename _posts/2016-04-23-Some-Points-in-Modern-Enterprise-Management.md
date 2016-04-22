@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some points in Modern Enterprise Management
+title: Some Points in Modern Enterprise Management
 category: Management
 ---
 ### Chapter 1 管理与企业管理
