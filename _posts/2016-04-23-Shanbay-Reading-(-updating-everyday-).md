@@ -3,7 +3,8 @@ layout: post
 title: Shanbay Reading (updating everyday)
 category:
 ---
-### Apr 23rd     
+### Apr 23rd
+
 ##### 1.Microsoft, Google agree to drop complaints against each other
 
       Microsoft Corp and Alphabet Inc's Google have reached a deal to withdraw all the regulatory complaints against each other, the companies told Reuters.
