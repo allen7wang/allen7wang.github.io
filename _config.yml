@@ -1,11 +1,11 @@
 # Site settings
-title: A7W's Blog
-description: "A7W's Blog"
-url: "http://www.allen7wang.com"
+title: Allen's Blog
+description: "Allen's Blog"
+url: "http://www.allen7wang.info"
 author:
   name: "Allen Wang"
   email: "allen7wang@gmail.com"
-  url: "http://www.allen7wang.com"
+  url: "http://www.allen7wang.info"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
