@@ -6,7 +6,7 @@ logo_url:           https://avatars1.githubusercontent.com/u/6808119?v=4  # Get 
 
 # Site Settings
 url:                https://allen7wang.github.io # main url
-baseurl:            /the-plain
+baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
