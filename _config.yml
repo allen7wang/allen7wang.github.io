@@ -1,7 +1,7 @@
 # Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
+title:              "Welcome to the blog"
+description:        "allen7wang's blog"
+author_name:        "allen7wang" # change this to your name
 logo_url:           https://avatars1.githubusercontent.com/u/6808119?v=4  # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
